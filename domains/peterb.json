@@ -1,0 +1,11 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/peterbosmanbe/peterbosmanbe.github.io",
+    "owner": {
+        "username": "peterbosmanbe",
+        "email": "info@peterbosman.be"
+    },
+    "record": {
+        "CNAME": "peterbosmanbe.github.io"
+    }
+}
